@@ -1,7 +1,22 @@
-# 👋 Hi, I'm Alperen Karacete
+<h5 align="center">
+  <code><a href="https://linkedin.com/in/muhammedalperenkaracete" title="LinkedIn Profile"><img width="22" src="https://cdn.simpleicons.org/linkedin" /> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/profile/alperenkaracete" title="Hacker Rank Profile"><img width="22" src="https://simpleicons.org/hackerrank" /> Stack Overflow</a></code>
+  <code><a href="https://alperenkaracete.github.io/portfolio/" title="Portfolio"><img width="22" src="https://cdn.simpleicons.org/internetarchive" /> Portfolio</a></code>
+</h5>
 
-🎮 I'm a passionate Game Developer and Software Engineer.  
-🚀 I love building interactive experiences using **Unity**, **Unreal Engine**, and various modern tools like **React**, **Yocto**, **C++**, and more.
+<br>
+
+<p align="center">
+  👋 Hi, I'm <strong>Alperen Karacete</strong> — a Computer Engineer and Software/Game Developer from Turkey  
+  <br><br>
+  🎮 I love developing video games using <strong>Unity</strong> and <strong>Unreal Engine</strong>
+  <br>
+  💻 I also work on embedded systems, web apps, and cross-platform tools  
+  <br>
+  🛠️ Technologies I use: C++, C#, Python, JavaScript, React, REST, ZeroMQ, Yocto, and more  
+  <br>
+  📫 How to reach me: <a href="mailto:m.alperenk@gmail.com">m.alperenk@gmail.com</a>
+</p>
 
 ---
 
