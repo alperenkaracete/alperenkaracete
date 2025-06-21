@@ -1,6 +1,6 @@
 <h5 align="center">
-  <code><a href="https://linkedin.com/in/muhammedalperenkaracete" title="LinkedIn Profile"><img width="22" src="https://cdn.simpleicons.org/linkedin" /> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/profile/alperenkaracete" title="Hacker Rank Profile"><img width="22" src="https://cdn.simpleicons.org/simpleicons/hackerrank" /> Hacker Rank</a></code>
+  <code><a href="https://linkedin.com/in/muhammedalperenkaracete" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/alperenkaracete" title="HackerRank Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" /> HackerRank</a></code>
   <code><a href="https://alperenkaracete.github.io/portfolio/" title="Portfolio"><img width="22" src="https://cdn.simpleicons.org/internetarchive" /> Portfolio</a></code>
 </h5>
 
