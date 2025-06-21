@@ -9,11 +9,12 @@
 <p align="center">
   👋 Hi, I'm <strong>Alperen Karacete</strong> — a Computer Engineer and Software/Game Developer from Turkey  
   <br><br>
+  🎓 I graduated from Gebze Technical University, Department of Computer Engineering (Undergraduate)
+  <br>
+  <br>
   🎮 I love developing video games using <strong>Unity</strong> and <strong>Unreal Engine</strong>
   <br>
   💻 I also work on embedded systems, web apps, and cross-platform tools  
-  <br>
-  🛠️ Technologies I use: C, C++, C#, Java, Flutter, REST, ZeroMQ, Yocto, and more  
   <br>
   📫 How to reach me: <a href="mailto:m.alperenk@gmail.com">m.alperenk@gmail.com</a>
 </p>
@@ -30,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
@@ -39,7 +39,7 @@
 ## 🎮 Game Development Projects
 
 ### 1. [RoboCarGo](https://github.com/alperenkaracete/RoboCarGo)
-A 2D puzzle-platformer where the car changes color to match the cargo. Deliver to the correct customer to win!  
+A 2D puzzle-cargo game where the car changes color to match the cargo. Deliver to the correct customer to win!  
 🧠 Color-matching mechanic | 🚗 Smooth movement 
 🎥 [Demo Video](https://youtu.be/qBhOFV2i1EM)
 
