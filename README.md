@@ -9,17 +9,17 @@
 
 ### 1. [RoboCarGo](https://github.com/alperenkaracete/RoboCarGo)
 A 2D puzzle-platformer where the car changes color to match the cargo. Deliver to the correct customer to win!  
-🧠 Color-matching mechanic | 🚗 Smooth movement | 🎯 Level Design  
+🧠 Color-matching mechanic | 🚗 Smooth movement 
 🎥 [Demo Video](https://youtu.be/qBhOFV2i1EM)
 
 ### 2. [Ski On Alps With Alp](https://github.com/alperenkaracete/SkiOnAlpsWithAlp)
 Flip, slide, and survive with Alp the skier!  
-🕹️ Trick system | ⛷️ Speed boost | 🎮 Flip counter  
+⛷️ Speed boost | 🎮 Flip counter  
 🎥 [Demo Video](https://youtu.be/xDD4X4ph7BU)
 
 ### 3. [Temoothy](https://github.com/alperenkaracete/Temoothy)  
 Collect eggs while being chased by a cat in this third-person platformer!  
-🎮 Cinemachine camera | 🐱 AI enemy | 🧩 Cutscene system  
+🎮 Cinemachine camera | 🐱 AI enemy | 🧩 Cutscene | Platforming  
 🎥 [Demo Video](https://youtu.be/ERTocbTElkI)
 
 ### 4. [Pass The Traps](https://github.com/alperenkaracete/PassTheTraps)  
@@ -34,7 +34,7 @@ An atmospheric crypt escape experience using Unreal Engine’s Lumen.
 
 ### 6. [Toon Tanks](https://github.com/alperenkaracete/ToonTanks)  
 Top-down tank shooter with a movable turret and AI-controlled enemies.  
-💣 Turret rotation | 🎯 Firing system | 🤖 AI logic  
+💣 Turret rotation | 🎯 Firing system | 🤖 Simple AI logic  
 🎥 [Demo Video](https://youtu.be/7-qy89zQzUs)
 
 ---
