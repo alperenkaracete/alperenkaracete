@@ -35,6 +35,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
+<!-- GitHub İstatistikleri 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alperenkaracete&show_icons=true&theme=radical" alt="alperenkaracete GitHub stats"/>
+</p>
+
+ En çok kullanılan diller 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenkaracete&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+
+ GitHub Profil Ödülleri 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alperenkaracete&theme=radical" alt="GitHub Trophies"/>
+</p> -->
 
 ## 🎮 Game Development Projects
 
