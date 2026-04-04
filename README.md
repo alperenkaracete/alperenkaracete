@@ -73,16 +73,6 @@ A comprehensive relational database system managing agencies, tours, and custome
 
 ---
 
-## 🎮 Game & Interactive Media Development
-*As a developer, I also enjoy exploring complex logic and physics systems through game development.*
-
-* **[RoboCarGo](https://github.com/alperenkaracete/RoboCarGo):** A 2D puzzle-cargo game with color-matching mechanics.
-* **[Toon Tanks](https://github.com/alperenkaracete/ToonTanks):** Top-down tank shooter with AI-controlled enemies (Unreal Engine / C++).
-* **[Crypt Reader](https://github.com/alperenkaracete/CryptReader):** An atmospheric crypt escape experience utilizing Lumen lighting.
-* **[Temoothy](https://github.com/alperenkaracete/Temoothy):** Third-person platformer featuring an AI enemy system and state machines.
-
----
-
 ## 🌐 My Backend & AI Engineering Diary
 🔗 [https://alperenkaracete.com)
 
