@@ -74,7 +74,7 @@ A comprehensive relational database system managing agencies, tours, and custome
 ---
 
 ## 🌐 My Backend & AI Engineering Diary
-🔗 [https://alperenkaracete.com)
+🔗[alperenkaracete.com](https://alperenkaracete.com)
 
 ---
 
