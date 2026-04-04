@@ -24,7 +24,7 @@
 </p>
 
 ---
-<h3 align="center">🧰 Languages & Technologies That I Interested In</h3>
+<h3 align="center">🧰 Languages & Technologies</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
