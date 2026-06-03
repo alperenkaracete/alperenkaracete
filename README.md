@@ -45,6 +45,17 @@
 
 ## 🚀 Backend, System Architecture & AI Projects
 
+### 🛒 [Full-Stack E-Commerce Platform](https://github.com/alperenkaracete/n11bootcamp-project-backend)
+A robust, distributed e-commerce platform engineered for high availability and fault tolerance, developed as an end-to-end graduation project.
+
+* **Tech Stack:**: Java 21, Spring Boot 3.5, Spring Cloud, Spring Security, React.js, PostgreSQL, Redis, RabbitMQ, Docker, GCP.
+* **Highlights:**
+  * Orchestrated 9 microservices using Spring Cloud API Gateway, Eureka, and Cloud Config Server.
+  * Implemented the Saga Pattern (Choreography) via RabbitMQ for distributed data consistency and automatic compensating transactions.
+  * Secured with Spring Security (RBAC) and JWT with a Redis-backed token whitelist for instantaneous logout.
+  * Designed a seamless guest-to-user cart merging mechanism and integrated the Iyzico Sandbox payment gateway.
+  * Automated end-to-end deployment with a GitHub Actions CI/CD pipeline delivering to GCP with Discord notifications.
+
 ### 🤖 [OlyKube](https://github.com/alperenkaracete/OlyKube) *(Ongoing)*
 A backend platform for orchestrating LLM-based AI agents on Kubernetes, built as part of my MSc thesis research.
 * **Tech Stack:** FastAPI, PostgreSQL, Docker, Kubernetes, LangGraph
